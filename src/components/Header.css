@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    justify-content: center;
+    padding: auto;
+    height: 100vh;
+
+    box-shadow: 10px 20px 20px 20px rgba(60, 255, 213, 0.1);
+   align-items: center;
+
+}
+.fa-chevron-left{
+    color: white;
+}
+i{
+    font-size: 40px;
+   
+}
+header{
+    display: flex;
+    text-align: center;
+    padding: 1rem;
+    justify-content: space-between;
+    width: 450px;
+    background: linear-gradient(#10bca8, #1af0d7);
+    border-radius:10px 10px 0 0;
+    box-shadow: 10px 20px 20px 20px rgba(60, 255, 213, 0.1);
+
+}
+.header-title{
+    font-size: 30px;
+    color: white;
+}
+.fa-circle-plus{
+    color: white;
+    font-size: 40px;
+    
+}

@@ -1,0 +1,51 @@
+.acc {
+    box-shadow: 2px 5px 10px #ccc;
+}
+
+.acc1 {
+
+    display: flex;
+    padding: 1rem;
+    background: white;
+}
+
+.acc1 img {
+    width: 80px;
+    height: 80px;
+    border-radius: 25px;
+}
+
+.acc1 .details {
+    padding-left: 0.7rem;
+    width: 350px;
+}
+
+.stars i {
+    width: 16px;
+    height: 16px;
+}
+
+/* .details h4 {
+    font-size: 15px;
+} */
+
+p {
+    font-size: 12px;
+}
+
+.fa-star {
+    color: #f2b01e;
+}
+
+.fa-star-half-stroke {
+    color: #f2b01e;
+}
+
+.content {
+    font-weight: normal !important;
+}
+
+.name {
+    font-size: 17px;
+    margin: 0 !important;
+}
